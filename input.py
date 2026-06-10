@@ -1,0 +1,6 @@
+name=input("enter your name  :")
+city=input("enter your city : ")
+print("name",name)
+print("city", city)
+print(f"hello {(name)}")
+print(f"welcome to {(city)}")
